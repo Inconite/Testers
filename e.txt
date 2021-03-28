@@ -1,2 +1,3 @@
 New file e.txt first created by [D 4th branch
 Changed e.txt from text editor
+changed e.txt from text editor after clone and new gbranch creation.

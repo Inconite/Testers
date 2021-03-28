@@ -1,2 +1,1 @@
-this is a new text file in new branch secbranch
-with two lines initially
+changing the content of c.txt after initial commit

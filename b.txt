@@ -1,2 +1,3 @@
 this is a new text file b.txt
 with two lines
+changing b.txt from gbranch

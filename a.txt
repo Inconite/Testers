@@ -1,3 +1,0 @@
-adding this text file first
-Adding new line to a.txt after the first line
-appending test from mywork branch

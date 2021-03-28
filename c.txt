@@ -1,0 +1,2 @@
+this is a new text file in new branch secbranch
+with two lines initially
